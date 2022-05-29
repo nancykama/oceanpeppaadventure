@@ -105,7 +105,7 @@ Frame.java
 
 - Then I had to create all my objects. I decided to have shell currency, three octopus obstacles, and of course, my main character Peppa.
   ```
-        Background bg = new Background(0, 0);
+       Background bg = new Background(0, 0);
 	OceanPeppa peppa = new OceanPeppa(10, 300);
 	Octopus octo1 = new Octopus (10,0);
 	Octopus octo2 = new Octopus (300,0);
