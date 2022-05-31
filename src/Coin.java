@@ -10,7 +10,7 @@ public class Coin {
 		public int x2 , y2;
 		//position of the coins
 		private Image img;
-		public int bvx1 = 4;
+		public int bvx1 = 4; 
 		private AffineTransform tx;
 
 		public Coin(int x, int y) {
