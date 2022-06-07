@@ -11,7 +11,7 @@ public class Coin {
 		//position of the coins
 		private Image img;
 		public int bvx1 = 4; 
-		private AffineTransform tx;
+		private AffineTransform tx; 
 
 		public Coin(int x, int y) {
 			this.x2 = x;
